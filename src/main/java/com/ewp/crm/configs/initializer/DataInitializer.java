@@ -53,7 +53,7 @@ public class DataInitializer {
     UserStatusService userStatusService;
 
     private void init() {
-
+//
         // DEFAULT STATUS AND FIRST STATUS FOR RELEASE
 //        Status defaultStatus = new Status("deleted", true, 5L, false, 0, 0);
 //        Status status0 = new Status("New clients", false, 1L, false, 0, 0);
